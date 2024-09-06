@@ -1,1 +1,1 @@
-ttttttttttt
+print("Quick Mart");
